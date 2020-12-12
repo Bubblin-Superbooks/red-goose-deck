@@ -1,0 +1,20 @@
+{
+  "name": "The Red Goose Papers",
+  "type": "text",
+  "has_page_numbers": false,
+  "cover": {
+    "punchline": "A slide deck for the adventurer!",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "",
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  }
+}

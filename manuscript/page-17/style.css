@@ -1,0 +1,7 @@
+body {
+  background-color: #555;
+  color: white;
+  background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/seed.jpg);
+  background-size: 200% 100%;
+  background-position: center right;
+}

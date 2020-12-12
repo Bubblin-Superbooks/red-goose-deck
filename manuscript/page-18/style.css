@@ -1,0 +1,26 @@
+body {
+	background-color: #C0392B;
+	color: white;
+}
+
+
+h1 { 
+ 	color: pink; 
+ 	font-weight: 700;
+} 
+
+ol li a {
+	color: pink; 
+}
+
+
+ol li a:focus,
+a:active,
+a:hover {
+  outline: 0 none;
+  color: #fff;
+}
+
+hr {
+	color: pink; 	
+}

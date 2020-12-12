@@ -1,0 +1,25 @@
+body {
+	background-color: #C0392B;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 12vw;
+	line-height: 12vw; 
+}
+
+h2 {
+	font-weight: 600;
+	 color: white; 
+}
+
+h1 a { 
+	color: pink;  
+} 
+
+h1 a:focus,
+a:active,
+a:hover {
+  outline: 0 none;
+  color: #fff;
+}
