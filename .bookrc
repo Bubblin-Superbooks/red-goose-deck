@@ -1,9 +1,9 @@
 {
-  "name": "Goose on the Deck",
+  "name": "The Goose on the Deck",
   "type": "text",
   "has_page_numbers": false,
   "cover": {
-    "punchline": "Ad-venture-r is out there!",
+    "punchline": "Ad`venture` is out there!",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -18,5 +18,5 @@
     "HEAD": "html"
   },
   "book_id": 1397,
-  "book_url": "https://bubblin.io/book/goose-on-the-deck-by-marvin-danig"
+  "book_url": "https://bubblin.io/book/the-goose-on-the-deck-by-marvin-danig"
 }
