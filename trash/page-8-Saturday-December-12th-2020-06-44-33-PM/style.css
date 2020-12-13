@@ -1,0 +1,31 @@
+body {
+  background-color: #8066ff;
+  color: white;
+  background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/traction.jpg);
+  background-size: 200% 100%;
+  background-position: center left; 
+
+}
+
+.ipad {
+  background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/ipad.png);
+  background-size: 100% 100%;
+  width: 90vw;
+  height: calc(90vw * 1443/1115);
+  position: relative;
+  background-color: inherit;
+}
+
+.demo {
+  position: absolute;
+  top: 10.2vw;
+  left: 5.5vw;
+  width: 78.5vw;
+  height: calc(74.5vw * 1443/1115);
+  border: 0px none;
+  contain: strict;
+  will-change: content;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-overflow-scrolling: touch;
+}

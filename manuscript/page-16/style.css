@@ -1,7 +1,26 @@
 body {
-  background-color: #555;
-  color: white;
-  background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/seed.jpg);
-  background-size: 200% 100%;
-  background-position: center left; 
+	background-color: #C0392B;
+	color: white;
+}
+
+
+h1 { 
+ 	color: pink; 
+ 	font-weight: 700;
+} 
+
+ol li a {
+	color: pink; 
+}
+
+
+ol li a:focus,
+a:active,
+a:hover {
+  outline: 0 none;
+  color: #fff;
+}
+
+hr {
+	color: pink; 	
 }
