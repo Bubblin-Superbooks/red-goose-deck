@@ -2,15 +2,16 @@
   "name": "The Goose on the Deck",
   "type": "text",
   "has_page_numbers": false,
-  "cover": {
-    "punchline": "Ad`venture` is out there!",
-    "toc": "",
-    "author_detail": "",
-    "colophon": "",
-    "synopsis": ""
-  },
+  "punchline": "Convert your website to mobile apps in minutes!",
+  "table_of_contents": "",
+  "author_detail": "",
+  "colophon": "",
+  "synopsis": "",
+  "category": "nonfiction",
+  "langiage": "EN",
   "status": "published",
   "asset_url": "",
+  "publisher": "self",
   "mode": {
     "HTML": "html",
     "CSS": "css",
