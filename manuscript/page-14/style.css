@@ -1,6 +1,6 @@
 body {
-	background-color: #C0392B;
-	color: white;
+	background-color: rgb(238 54 54);
+	background-image: linear-gradient(135deg, rgb(238 54 54) 0%, rgb(158 59 108) 100%);
 }
 
 
