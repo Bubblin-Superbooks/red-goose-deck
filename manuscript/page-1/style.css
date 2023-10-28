@@ -1,23 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap&text="RedGOosithubn!"'); 
-
 body {
-	background-color: #C0392B;
+	background-color: rgb(238 54 54);
+	background-image: linear-gradient(135deg, rgb(238 54 54) 0%, rgb(158 59 108) 100%);
 }
 
 h1 {
-	font-weight: 700;
-	font-size: 12vw;
-	line-height: 12vw; 
+	font-size: 300%;
+	font-family: 'Pacifico', cursive; 
+    font-weight: 300;
 }
 
-h2 {
-	font-weight: 500;
-	font-size: 4vw; 
+p {
 	color: white;
 }
 
 h1 a { 
-	color: pink;  
+	color: #f9b305;  
 } 
 
 h1 a:focus,
